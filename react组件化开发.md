@@ -77,7 +77,7 @@ Chirldren.proptypes = {
 
 具体有哪些限制可以在官方文档中查看
 
-[react中使用proptypes进行类型校验]:https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html
+https://zh-hans.reactjs.org/docs/typechecking-with-proptypes.html
 
 **默认值**
 
